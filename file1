@@ -1,0 +1,6 @@
+master> git branch develop
+master > git checkout develop
+develop > make changes -> git add and git commit
+develop > git log --oneline
+develop > git checkout master
+master > git merge develop
